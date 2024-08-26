@@ -1,0 +1,101 @@
+Cabang Asal,Cabang Tujuan,Tanggal Kirim,Bulan Kirim,Jenis Transportasi,Waktu Pengiriman (jam)
+Jakarta,Surabaya,1,8,Kereta Api,10
+Bandung,Medan,2,8,Pesawat,8
+Surabaya,Bandung,3,8,Kereta Api,20
+Medan,Jakarta,4,8,Kapal,18
+Jakarta,Surabaya,5,8,Kapal,15
+Bandung,Medan,6,8,Kapal,22
+Surabaya,Bandung,7,8,Truk,14
+Medan,Jakarta,8,8,Truk,24
+Jakarta,Surabaya,9,8,Kereta Api,7
+Bandung,Medan,10,8,Kereta Api,9
+Surabaya,Bandung,11,8,Kapal,11
+Medan,Jakarta,12,8,Truk,21
+Jakarta,Surabaya,13,8,Truk,13
+Bandung,Medan,14,8,Pesawat,17
+Surabaya,Bandung,15,8,Pesawat,6
+Medan,Jakarta,16,8,Kereta Api,19
+Jakarta,Surabaya,17,8,Kapal,23
+Bandung,Medan,18,8,Kapal,5
+Surabaya,Bandung,19,8,Pesawat,10
+Medan,Jakarta,20,8,Kapal,20
+Jakarta,Surabaya,21,8,Kapal,10
+Bandung,Medan,22,8,Pesawat,8
+Surabaya,Bandung,23,8,Truk,20
+Medan,Jakarta,24,8,Pesawat,18
+Jakarta,Surabaya,25,8,Truk,15
+Bandung,Medan,26,8,Kereta Api,22
+Surabaya,Bandung,27,8,Kapal,14
+Medan,Jakarta,28,8,Truk,24
+Jakarta,Surabaya,29,8,Pesawat,7
+Bandung,Medan,30,8,Truk,9
+Surabaya,Bandung,31,8,Truk,11
+Medan,Jakarta,1,9,Kereta Api,21
+Jakarta,Surabaya,2,9,Pesawat,13
+Bandung,Medan,3,9,Kereta Api,17
+Surabaya,Bandung,4,9,Kereta Api,6
+Medan,Jakarta,5,9,Kapal,19
+Jakarta,Surabaya,6,9,Pesawat,23
+Bandung,Medan,7,9,Kereta Api,5
+Surabaya,Bandung,8,9,Kapal,10
+Medan,Jakarta,9,9,Kereta Api,20
+Jakarta,Surabaya,10,9,Kapal,10
+Bandung,Medan,11,9,Truk,8
+Surabaya,Bandung,12,9,Pesawat,20
+Medan,Jakarta,13,9,Kapal,18
+Jakarta,Surabaya,14,9,Kereta Api,15
+Bandung,Medan,15,9,Kereta Api,22
+Surabaya,Bandung,16,9,Truk,14
+Medan,Jakarta,17,9,Kereta Api,24
+Jakarta,Surabaya,18,9,Kapal,7
+Bandung,Medan,19,9,Pesawat,9
+Surabaya,Bandung,20,9,Kereta Api,11
+Medan,Jakarta,21,9,Truk,21
+Jakarta,Surabaya,22,9,Truk,13
+Bandung,Medan,23,9,Kapal,17
+Surabaya,Bandung,24,9,Kapal,6
+Medan,Jakarta,25,9,Kapal,19
+Jakarta,Surabaya,26,9,Pesawat,23
+Bandung,Medan,27,9,Pesawat,5
+Surabaya,Bandung,28,9,Pesawat,10
+Medan,Jakarta,29,9,Kapal,20
+Jakarta,Surabaya,30,9,Pesawat,10
+Bandung,Medan,1,10,Pesawat,8
+Surabaya,Bandung,2,10,Pesawat,20
+Medan,Jakarta,3,10,Kereta Api,18
+Jakarta,Surabaya,4,10,Truk,15
+Bandung,Medan,5,10,Kereta Api,22
+Surabaya,Bandung,6,10,Kereta Api,14
+Medan,Jakarta,7,10,Kapal,24
+Jakarta,Surabaya,8,10,Truk,7
+Bandung,Medan,9,10,Truk,9
+Surabaya,Bandung,10,10,Kereta Api,11
+Medan,Jakarta,11,10,Kapal,21
+Jakarta,Surabaya,12,10,Truk,13
+Bandung,Medan,13,10,Truk,17
+Surabaya,Bandung,14,10,Truk,6
+Medan,Jakarta,15,10,Pesawat,19
+Jakarta,Surabaya,16,10,Kapal,23
+Bandung,Medan,17,10,Pesawat,5
+Surabaya,Bandung,18,10,Pesawat,10
+Medan,Jakarta,19,10,Kereta Api,20
+Jakarta,Surabaya,20,10,Pesawat,10
+Bandung,Medan,21,10,Kereta Api,8
+Surabaya,Bandung,22,10,Truk,20
+Medan,Jakarta,23,10,Truk,18
+Jakarta,Surabaya,24,10,Pesawat,15
+Bandung,Medan,25,10,Pesawat,22
+Surabaya,Bandung,26,10,Kapal,14
+Medan,Jakarta,27,10,Kereta Api,24
+Jakarta,Surabaya,28,10,Pesawat,7
+Bandung,Medan,29,10,Kereta Api,9
+Surabaya,Bandung,30,10,Pesawat,11
+Medan,Jakarta,31,10,Truk,21
+Jakarta,Surabaya,1,11,Pesawat,13
+Bandung,Medan,2,11,Kereta Api,17
+Surabaya,Bandung,3,11,Kereta Api,6
+Medan,Jakarta,4,11,Truk,19
+Jakarta,Surabaya,5,11,Truk,23
+Bandung,Medan,6,11,Truk,5
+Surabaya,Bandung,7,11,Truk,10
+Medan,Jakarta,8,11,Kapal,20
